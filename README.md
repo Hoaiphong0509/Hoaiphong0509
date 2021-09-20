@@ -1,7 +1,7 @@
 # Hi there, I'm Nguyễn Hoài Phong - [coder]👋👋👋
 
 ## I'm a Student, Junior!!
-- 💻 I study anywhere I can put a laptop
+- 💻 I study anywhere I can use a laptop
 - 🔭 I'm currently working on a [Visual Studio Code]
 - 🌱 I’m currently learning everything about Javascript 🤣
 - 👯 I’m looking to collaborate with other content creators
